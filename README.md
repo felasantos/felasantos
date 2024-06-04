@@ -13,11 +13,12 @@
 <img alt="agga-css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" /> 
 <img alt="agga-python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 <img alt="agga-vscode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
+ <img alt="agga-vscode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 ‎ 
 
 </div>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=felasantos&show_icons=true&theme=gotham" alt="felasantos" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=felasantos&show_icons=true&theme=blue-green" alt="felasantos" />
 
 [![Linkedin Badge](https://img.shields.io/badge/-felasantos-blue?style=flat&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in//](https://www.linkedin.com/in/felipe-alves-dos-santos-7634a3b1/))](https://www.linkedin.com/in/felipe-alves-dos-santos-7634a3b1/)
 [![Instagram Badge](https://img.shields.io/badge/-felasantos-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/felalves91/)](https://instagram.com/felalves91)
