@@ -14,10 +14,7 @@
 <img alt="agga-python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 <img alt="agga-vscode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
  <img alt="agga-vscode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
- <img alt="agga-vscode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original-wordmark.svg" />
-‎ 
-
-</div>
+ <img alt="agga-vscode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=felasantos&show_icons=true&theme=blue-green" alt="felasantos" />
 
